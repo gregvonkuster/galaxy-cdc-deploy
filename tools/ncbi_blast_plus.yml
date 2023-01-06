@@ -1,0 +1,11 @@
+install_tool_dependencies: false
+install_repository_dependencies: false
+install_resolver_dependencies: false
+
+tools:
+- name: ncbi_blast_plus
+  owner: devteam
+  revisions:
+  - 0e3cf9594bb7
+  tool_panel_section_label: NCBI BLAST+
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
