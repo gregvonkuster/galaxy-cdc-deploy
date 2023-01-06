@@ -119,6 +119,6 @@ tools:
 - name: flye
   owner: bgruening
   revisions:
-  - 276f5d8712d5
+  - cb8dfd28c16f
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
