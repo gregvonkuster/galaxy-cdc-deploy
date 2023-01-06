@@ -14,3 +14,9 @@ tools:
   - 0dbb995c7d35
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: filter_contigs
+  owner: greg
+  revisions:
+  - 222fb7dc2286
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
