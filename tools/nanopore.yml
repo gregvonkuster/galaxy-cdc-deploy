@@ -122,3 +122,9 @@ tools:
   - cb8dfd28c16f
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: draw_features
+  owner: greg
+  revisions:
+  - 636eeb4fb9ac
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
