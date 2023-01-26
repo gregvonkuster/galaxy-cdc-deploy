@@ -35,6 +35,6 @@ tools:
 - name: p_chunks
   owner: greg
   revisions:
-  - db50fb3faffc
+  - 66c368ee50fe
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
