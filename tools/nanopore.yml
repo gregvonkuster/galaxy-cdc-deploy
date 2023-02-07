@@ -128,3 +128,15 @@ tools:
   - 60e606b39897
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: call_insertions
+  owner: greg
+  revisions:
+  - 5626dc2d0ef2
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: draw_amr_matrix
+  owner: greg
+  revisions:
+  - 6044ca44e9f6
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
