@@ -14,3 +14,9 @@ tools:
   - 56faa6a57e50
   tool_panel_section_label: SAM/BAM
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: samtools_mpileup
+  owner: devteam
+  revisions:
+  - 9da0311ab1dd
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
