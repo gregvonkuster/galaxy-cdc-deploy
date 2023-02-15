@@ -32,3 +32,9 @@ tools:
   - 47e5dbc3e790
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: pear
+  owner: iuc
+  revisions:
+  - b4c6f054210a
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
