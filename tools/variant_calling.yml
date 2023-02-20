@@ -8,3 +8,9 @@ tools:
   - db94eadb92c1
   tool_panel_section_label: Variant Calling
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: varscan_pileup
+  owner: greg
+  revisions:
+  - 48d49a58161c
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/

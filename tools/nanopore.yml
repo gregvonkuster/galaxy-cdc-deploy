@@ -143,6 +143,6 @@ tools:
 - name: call_amr_mutations
   owner: greg
   revisions:
-  - 64999b5b58fe
+  - a2fe87395f74
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
