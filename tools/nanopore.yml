@@ -137,7 +137,7 @@ tools:
 - name: draw_amr_matrix
   owner: greg
   revisions:
-  - 46d31ec5d24c
+  - caf554e039b2
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: call_amr_mutations
