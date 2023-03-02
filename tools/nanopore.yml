@@ -125,7 +125,7 @@ tools:
 - name: draw_features
   owner: greg
   revisions:
-  - 3ba596014675
+  - c318e520dca1
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: call_insertions
