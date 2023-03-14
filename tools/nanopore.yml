@@ -125,7 +125,7 @@ tools:
 - name: draw_features
   owner: greg
   revisions:
-  - c318e520dca1
+  - d5a5d145cfce
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: call_insertions
@@ -137,12 +137,18 @@ tools:
 - name: draw_amr_matrix
   owner: greg
   revisions:
-  - caf554e039b2
+  - 389c98d344ce
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: call_amr_mutations
   owner: greg
   revisions:
   - a2fe87395f74
+  tool_panel_section_label: Nanopore
+  tool_shed_url: https://toolshed.g2.bx.psu.edu/
+- name: pima_report
+  owner: greg
+  revisions:
+  - 99613333fd1f
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
