@@ -8,9 +8,9 @@ tools:
   - 344ac3ca7557
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
-- name: circos
-  owner: iuc
+- name: draw_circos
+  owner: greg
   revisions:
-  - 290a11559985
+  - b73148507037
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
