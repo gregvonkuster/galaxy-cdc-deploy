@@ -15,8 +15,8 @@ tools:
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: quast
-  owner: iuc
+  owner: greg
   revisions:
-  - 72472698a2df
+  - 5367786dc871
   tool_panel_section_label: Assembly
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
