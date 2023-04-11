@@ -83,7 +83,7 @@ tools:
 - name: nanoplot
   owner: iuc
   revisions:
-  - a3c4fe6f49ab
+  - 0f1c34698076
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
 - name: porechop
@@ -143,6 +143,6 @@ tools:
 - name: pima_report
   owner: greg
   revisions:
-  - e948214a9e3c
+  - 4fe8c35cd176
   tool_panel_section_label: Nanopore
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
